@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // 主域名(也就是当前这个页面) http://www.xxx.com/index.php
 
 // 副域名池 http://www.BBB.com/xxx/yyy/xxx.html
